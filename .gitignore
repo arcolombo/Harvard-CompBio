@@ -1,3 +1,12 @@
 GSE10940_RAW.tar.gz
 lab-work/GSE10940/GSE10940_RAW.tar.gz
+lecture-notes/*.aux
+lecture-notes/*.dvi
+lecture-notes/*.log
+lecture-notes/*.synctex*
+lecture-notes/*.tex
+lecture-notes/*.thm
+lecture-notes/*.toc
+lecture-notes/*.sty
+lecture-notes/*.cls
 
