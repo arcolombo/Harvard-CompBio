@@ -1,0 +1,21 @@
+Package: RcompBio
+Type: Package
+Title: A package that performs basic comp bio functions for formative *seq analysis
+Version: 0.0.01
+Date: 2016-04-28
+Author:  Anthony Colombo
+Depends:
+    GEOquery,
+    limma,
+    affy,
+    affyPLM
+Imports:
+    GEOquery
+Suggests:
+    knitr,
+    roxygen2
+VignetteBuilder: knitr
+Maintainer: Anthony Colombo <anthonycolombo60@gmail.com>
+Description: Performs computational biological steps for microarray and *Seq, normalization, Hidden-Markov Modeling, etc.
+License: GPL (>= 2)
+RoxygenNote: 5.0.1
